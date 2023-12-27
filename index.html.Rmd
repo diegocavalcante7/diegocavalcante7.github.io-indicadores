@@ -1,0 +1,313 @@
+---
+title: "INDICADORES DE DESEMPENHO DO SFPC"
+author: "[**16° Batalhão Logístico**](http://www.16blog.eb.mil.br)"
+date: 
+output: 
+  bookdown::gitbook:
+  config:
+    toc:
+      collapse: subsection
+      scroll_highlight: yes
+      before: null
+      after: null
+    toolbar:
+      position: fixed
+    edit : null
+    download: null
+    search: yes
+    fontsettings:
+      theme: white
+      family: sans
+      size: 2
+    sharing:
+      facebook: yes
+      github: yes
+      twitter: yes
+      linkedin: yes
+      weibo: yes
+      instapaper: yes
+      vk: no
+      all: ['facebook', 'twitter', 'linkedin', 'weibo', 'instapaper']
+    info: yes
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# **CAPA** {-}
+<div style="text-align: justify">
+![](capa.png)
+
+# **SOBRE A EDIÇÃO** {-}
+<div style="text-align: justify">
+
+Sistema de medição de desempenho do [SFPC/16° B Log](http://www.16blog.eb.mil.br/index.php/sfpc-16blog). Permitida a reprodução sem fins lucrativos, parcial ou total, por qualquer meio, se citada a fonte.
+
+
+**Comandante do 16° B Log**
+
+Ten Cel QMB **Tibério** Ferreira Figueirado
+
+
+**Chefe do SFPC/16° B Log**
+
+Cap QAO/Inf **Juliandro** Araújo Barbosa
+
+
+**Organização**
+
+Serviço de Fiscalização de Produtos Controlados/16° B Log
+
+
+**Colaboradores**
+
+Analistas do Serviço de Fiscalização de Produtos Controlados/16° B Log
+
+
+**Projeto gráfico, diagramação e divulgação**
+
+2° Sgt QMB Diego [**Cavalcante**](https://www.linkedin.com/in/diegocavalcante7/) Souza de Athayde
+
+
+**Revisão**
+
+Serviço de Fiscalização de Produtos Controlados/16° B Log
+
+
+**Última atualização**
+
+31 DEZ 2023
+
+**Divulgação**
+http://www.16blog.eb.mil.br/index.php/indicador-de-desempenho
+
+# **APRESENTAÇÃO** {.unnumbered}
+
+<div style="text-align: justify">
+
+O presente documento destina-se ao público e, em especial, aos usuários do SisFPC.
+Sua finalidade consiste na publicização de dados básicos de registro, apuração e controle de indicadores de desempenho da gestão processual, bem como apresentar dados da satisfação dos usuários do SFPC/16° B Log.
+
+Os indicadores de desempenho são fundamentais ao planejamento e controle dos processos finalísticos das organizações. Sua existência permite o estabelecimento de metas quantificadas e o seu desdobramento na organização. São essenciais ao controle pois viabilizam uma análise crítica do desempenho, orientando a tomada de decisão e o replanejamento.
+
+A apresentação a seguir disporá de indicadores quantitativos, conforme prevê a ITA n° 07-DFPC, e qualitativos, expressos pela Pesquisa de Satisfação aplicada aos regulados jurisdicionados nas áreas do 16° B Log.
+
+Os dados apresentados neste relatório dizem respeito aos processos tramitados no SisGCorp em 2023, e a pesquisa de satisfação aplicada aos usuários que buscaram o SFPC/16° B Log de forma presencial no corrente ano.
+
+# **1 DADOS GERAIS** {.unnumbered}
+
+<div style="text-align: justify">
+
+O Sistema de Gestão Corporativo (SisGCorp) é uma solução de governança adotada pelo Exército Brasileiro, por intermédio da DFPC, que compreende a informatização de processos FINALÍSTICOS, GERENCIAIS e de APOIO utilizados pelos usuários do SisFPC.
+
+O sistema, como um todo, consiste em uma plataforma informatizada alinhada com as tecnologias mais recentes, que objetiva, por meio de uma interface amigável, tornar mais céleres e seguras as tarefas demandadas por aqueles que desejam adquirir e utilizar Produtos Controlados pelo Exército (PCE).
+
+## 1.1 Evolução da demanda {.unnumbered}
+
+O gráfico a seguir consiste no mapa progressivo da demanda processual do SisGCorp na jurisdição do 16° B Log entre janeiro de 2020 e maio de 2023.
+
+![](evolucao.png)
+
+Em comparação ao ano de 2020, quando o SisGCorp iniciou sua operação, em 2021 houve um aumento de demanda processual na ordem de 1823,5%.
+No ano de 2022, terceiro ano de operação do SisGCorp, o aumento da demanda processual se deu na ordem de 3063,6% em relação à 2020, e na ordem de 168% em comparação à 2021. 
+
+Sobre a evolução da demanda processual no corrente ano, será feita avaliação específica após definição normativa pelo Poder Executivo.
+
+## 1.2 Processos por serviço {.unnumbered}
+
+O SisGCorp oferta diversos serviços a seus usuários, a saber: concessão, revalidação e cancelamento de CR, aquisição de PCE, registro e apostilamento de armas de fogo, emissão de guia de tráfego, apostilamentos diversos ao CR, renovação e 2ª via de CRAF, entre outros produtos em fase de implementação.
+
+O gráfico a seguir demonstra o quantitativo de processos do SisGCorp em 2023, por tipo de serviço, na jurisdição do 16° B Log.
+
+![](servico.png)
+Para um total de 1.631 processos tramitados no âmbito do SFPC/16° B Log até maio de 2023, pode-se destacar os seguintes aspectos:
+
+- A emissão de guias de tráfego representou 42,31% dos processos analisados, seguida da aquisição de PCE (21,79%), registro e apostilamento de AF (13,46%) e apostilamento ao CR (8,09%);
+
+- Os demais serviços, juntos, somam 14,34% do quantitativo processual total de 2023.
+
+## 1.3 Aprovação processual {.unnumbered}
+
+Os processos protocolados no SisGCorp percorrem os seguintes estágios: Pronto para Análise, Em Análise, Restituído, Deferido e Indeferido.
+
+Para os processos restituídos aos usuários do SisFPC, a DFPC concede o prazo de 30 (trinta) dias para correção, dilatando em 20 (vinte) dias o previsto no Artigo 24 da Lei n° 9.784, que regula o processo administrativo no âmbito da Administração Pública Federal. O descumprimento desse prazo acarreta indeferimento automático pelo próprio SisGCorp.
+
+O gráfico a seguir demonstra o quantitativo de processos deferidos, indeferidos e restituídos aos usuários pelo SFPC/16° B Log, no ano de 2023.
+
+![](aprovacao.png)
+Para o total de 1.248 processos tramitados no âmbito do SFPC/16° B Log até maio de 2023, pode-se destacar os seguintes aspectos:
+
+- Há um elevado grau de deferimento processual;
+
+- Os processos restituídos, apesar do baixo percentual, dependem da agência dos usuários para que tenham solução tempestiva; e
+
+- Menos de 5% dos processos que tramitaram em 2023 foram indeferidos, revelando elevado grau de maturidade dos usuários.
+
+# **2 INDICADOR DE EFICÁCIA** {.unnumbered}
+
+<div style="text-align: justify">
+
+Os Indicadores de Eficácia permitem inferir se o resultado desejado foi obtido. Por intermédio deles é possível mensurar se um objetivo organizacional foi alcançado após a execução de determinada atividade. São indicadores-chaves vinculados aos objetivos estratégicos, cuja função é demonstrar o êxito dos esforços para alcançar um fim.
+
+O gráfico a seguir demonstra o nível de eficácia da análise processual desenvolvida pelo SFPC/16° B Log no decorrer do ano de 2023, por meio da quantificação do IPend (Indicador de Pendências Processuais).
+
+![](ipend.png)
+
+**Fórmula de cálculo:**
+IPend =	N° Processos com Pendências / N° Total de Processos
+
+**Polaridade:** Quanto menor melhor (quanto menor for o IPend, menor será o n° de pendências processuais restituídas pelo SFPC/16° B Log);
+
+**Meta:** O nº de processos com pendências deve representar 2% ou menos do nº total de processos (IPend = 2% ou <); e
+
+**Estratégias:** Fortalecer a imagem de efetividade do SisFPC, aperfeiçoando o atendimento aos usuários e a gestão do SisFPC.
+
+# **3 INDICADOR DE EFICIÊNCIA** {.unnumbered}
+
+<div style="text-align: justify">
+
+Os Indicadores de Eficiência permitem inferir a proporção de recursos consumidos com relação às saídas dos processos ou projetos. Eles dão a medida da produtividade das atividades desempenhadas pela observação do tempo utilizado até chegar ao produto esperado, a saber, a homologação do processo protocolizado.
+
+O gráfico a seguir demonstra o nível de eficiência da análise processual desenvolvida pelo SFPC/16° B Log no decorrer do ano de 2023, por meio da quantificação do ITM (Indicador de Tempo Médio de Tramitação Processual).
+
+![](itmt.png)
+
+**Fórmula de cálculo:** ITM =	[Σ (Data final - Data protocolo) / n]/30
+
+**n =** n° total de processos no mês de análise;
+
+**30 =** meta (em nº de dias) para Tempo Médio de Tramitação de Processos (ITM = 1 ou <);
+
+**Polaridade:** Quanto menor melhor (quanto menor for o ITM, menor será o n° de dias de análise processual do SFPC/16° B Log);
+
+**Meta:** Os processos devem ter solução no prazo médio de 30 dias (ITM = 1 ou <); e
+
+**Estratégias:** Fortalecer a imagem de efetividade do SisFPC, aperfeiçoando o atendimento aos usuários e a gestão do SisFPC.
+
+# **4 INDICADOR DE EFETIVIDADE** {.unnumbered}
+
+<div style="text-align: justify">
+
+Os Indicadores de Efetividade permitem inferir sobre as consequências dos serviços prestados. Eles mensuram o impacto e o efeito produzidos em relação ao planejado.
+
+O gráfico a seguir demonstra o nível de efetividade da análise processual desenvolvida pelo SFPC/16° B Log no decorrer do ano de 2023, por meio da quantificação do IPrev (Indicador de Previsibilidade de Solução Processual).
+
+![](iprev.png)
+
+**Fórmula de cálculo:**
+
+IPrev =	N° Processos analisados em 30 dias / N° Total de Processos (mês)
+
+**Polaridade:** Quanto maior melhor (quanto maior for o IPrev, maior será a porcentagem de processos solucionados no mesmo mês que forem recebidos);
+
+**Meta:** Cem por cento (100%) dos processos deve ter solução em até 30 dias (IPrev= 1); e
+
+**Estratégias:** Fortalecer a imagem de efetividade do SisFPC, aperfeiçoando o atendimento aos usuários e a gestão do SisFPC.
+
+# **6 PESQUISA DE SATISFAÇÃO** {.unnumbered}
+
+<div style="text-align: justify">
+
+A pesquisa de satisfação dos usuários do SFPC/16° B Log é aplicada de forma virtual, por meio de questionário eletrônico (Google Forms), e aborda cinco aspectos de atendimento ao público, a saber: tipo de serviço; tempo de atendimento; qualidade do atendimento; qualidade da resolução da demanda; e qualidade das instalações.
+
+Os dados a seguir expressam a porcentagem da satisfação quanto aos aspectos ora abordados, conforme se segue.
+
+## 6.1 Quanto ao tipo de serviço {.unnumbered}
+
+A pergunta que norteou a aferição da satisfação dos usuários para o quesito “tipo de serviço demandado” consistiu em: “Qual o tipo de serviço solicitado junto à SFPC/16º B Log?”
+
+imagem
+
+Para os dados ora apresentados, pode-se destacar os seguintes aspectos:
+
+- A busca por atendimento em função de Concessão de CR, Aquisição de AF e munições, emissão de CRAF e transferência de PCE foram os serviços mais procurados no atendimento presencial do SFPC/16° B Log.
+
+## 6.2 Quanto ao tempo de atendimento {.unnumbered}
+
+A pergunta que norteou a aferição da satisfação dos usuários para o quesito “tempo de atendimento” consistiu em: “Em média, quanto tempo o(a) Sr(a) esperou para ser atendido(a) na Recepção da SFPC/16° B Log?”
+
+imagem
+
+Para os dados ora apresentados, pode-se destacar os seguintes aspectos:
+
+- Mais 65% dos entrevistados afirmaram que seus atendimentos foram realizados em, no máximo, 5 (cinco) minutos;
+
+- 33% dos entrevistados afirmaram que seus atendimentos foram realizados em, no máximo, 20 (vinte) minutos; e
+
+- Não houve respostas para as opções “De 20 a 60 minutos” e “mais de 60 minutos”.
+
+## 6.3 Qualidade do atendimento {.unnumbered}
+
+A pergunta que norteou a aferição da satisfação dos usuários para o quesito “qualidade do atendimento” consistiu em: “O Senhor(a) está satisfeito(a) com o atendimento ao público dispensado pela equipe do SFPC/16º B Log?”
+
+imagem
+
+Para os dados ora apresentados, pode-se destacar os seguintes aspectos:
+
+- 83% dos usuários afirmaram estarem muito satisfeitos com o atendimento ao público executado pela equipe do SFPC/16° B Log;
+
+- 17% dos usuários consultados afirmaram estarem satisfeitos; e
+
+- Não houve respostas para as opções “Normal”, “Pouco satisfeito” e “Insatisfeito”.
+
+## 6.4 Resolução da demanda {.unnumbered}
+
+A pergunta que norteou a aferição da satisfação dos usuários para o quesito “qualidade da resolução da demanda” consistiu em: “Qual o seu grau de satisfação em relação ao atendimento de sua necessidade?”
+
+Imagem
+
+Para os dados ora apresentados, pode-se destacar os seguintes aspectos:
+
+- 83% dos usuários afirmaram estarem muito satisfeitos quanto à resolução de suas demandas ao buscarem atendimento presencial no SFPC/16° B Log;
+
+- 17% dos usuários consultados afirmaram estarem satisfeitos quanto à resolução de suas demandas; e
+
+- Não houve respostas para as opções ”Satisfeito”, “Normal” e “Pouco satisfeito”.
+
+## 6.5 Qualidade das instalações {.unnumbered}
+
+A pergunta que norteou a aferição da satisfação dos usuários para o quesito “qualidade das instalações” consistiu em: “Qual o seu grau de satisfação com as instalações onde ocorrem o atendimento ao público da SFPC/16º B Log?”
+
+imagem
+
+Para os dados ora apresentados, pode-se destacar os seguintes aspectos:
+
+- Metade dos usuários consultados alegou estarem satisfeitos com as instalações de atendimento presencial no SFPC/16° B Log;
+
+- 33% dos usuários consultados alegou estarem satisfeitos quanto às instalações de atendimento; e
+
+- 17% dos usuários consultados se percebem indiferentes satisfeitos com as instalações de atendimento do SFPC/16° B Log; e
+
+- Não houve respostas para as opções “Pouco satisfeito” e “Insatisfeito”.
+
+# **CONSIDERAÇÕES FINAIS** {.unnumbered}
+
+<div style="text-align: justify">
+
+Com a divulgação dos dados presentes neste documento, o Comando do 16° Batalhão Logístico, representado por seu Serviço de Fiscalização de Produtos Controlados, reforça seu comprometimento com as leis, normas e orientações emanadas dos escalões integrantes do SisFPC.
+
+Ao mesmo tempo, a partir desta ação de comando, o 16° B Log auxilia no estreitamento de laços do Exército Brasileiro com a sociedade civil e militar, a partir do uso de ferramentas de transparência ativa que, para além de sua essência constitucional, figuram como elementos indispensáveis às instituições públicas.
+
+# **REFERÊNCIA NORMATIVA** {.unnumbered}
+
+<div style="text-align: justify">
+
+[Lei n° 9.784, de 29 de janeiro de 1999](https://www.planalto.gov.br/ccivil_03/leis/l9784.htm). Regula o processo administrativo no âmbito da Administração Pública Federal.
+
+[Lei nº 10.826, de 22 de dezembro de 2003](https://www.planalto.gov.br/ccivil_03/leis/2003/L10.826compilado.htm). Dispõe sobre registro, posse e comercialização de armas de fogo e munição, sobre o Sistema Nacional de Armas – SINARM, define crimes e dá outras providências.
+
+[Decreto nº 10.030, de 30 de setembro de 2019](https://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2019/Decreto/D10030.htm). Aprova o Regulamento de Produtos Controlados.
+
+[Decreto nº 11.615, de 21 de julho de 2023](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/decreto/d11615.htm). Regulamenta a Lei nº 10.826, de 22 de dezembro de 2003.
+
+[Portaria nº 214 - EME, de 7 de junho de 2016](http://www.sgex.eb.mil.br/sistemas/boletim_do_exercito/copiar.php?codarquivo=426&act=sep). Aprova o Manual Técnico (EB20-MT-11.003) Gestão de Indicadores de Desempenho, 1ª Edição, 2016.
+
+[Portaria n° 164–COLOG/C Ex, de 11 de dezembro de 2023](https://media.moneytimes.com.br/uploads/2023/12/portaria-eb-militares.pdf). Estabelece as normas para a aquisição, o registro, o cadastro, a transferência, o porte e o transporte de arma de fogo; e a aquisição de munições, insumos e acessórios de arma de fogo por militares do Exército, em serviço ativo e na inatividade.
+
+[Portaria Nº 166-COLOG/C Ex, de 22 de dezembro de 2023](http://www.dfpc.eb.mil.br/documentos/Informativo%20003-2023_Dec%20nr%2011.615.pdf). Aprova as Normas para a Gestão de Produtos Controlados pelo Exército nas atividades de colecionamento, tiro desportivo e caça excepcional.
+
+[ITA n° 07 – DFPC, de 10 de maio de 2017](http://www.dfpc.eb.mil.br/phocadownload/ITAn07.pdf). Dispõe sobre padronização de indicadores de desempenho dos macroprocessos do SisFPC e outras providências relacionadas.
